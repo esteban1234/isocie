@@ -42,7 +42,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 text-md-left align-self-center my-5">
-          <h1 class="text-white display-1">Contabilidad</h1>
+          <h1 class="text-white display-1">Consultores</h1>
           <h4 class="text-white">Resultados para su empresa, garantizados.</h4>
           <div class="row mt-5">
             <div class="col-md-5 col-6">
