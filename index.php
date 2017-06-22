@@ -106,21 +106,21 @@
               <h4 class="new-font-tamano">AUDITORÍA DE CONTROL INTERNO</h4>
               <p class="alinear">Control e información de la operaciones, puesto que permite el manejo adecuado de los bienes, funciones e información de una empresa determinada, con el fin de generar una indicación confiable de su situación y sus operaciones en el mercado.</p>
             </div>
-            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa fa-3x fa-columns"></i></div>
+            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa fa-3x fa-pencil-square-o"></i></div>
           </div>
           <div class="row my-5">
             <div class="ccol-xs-12 col-lg-10">
               <h4 class="new-font-tamano">SERVICIOS CONTABLES</h4>
               <p class="alinear">Están diseñados para que se constituyan en un verdadero soporte administrativo.</p>
             </div>
-            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa  fa-3x fa-circle-thin"></i></div>
+            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa  fa-3x fa-calculator"></i></div>
           </div>
           <div class="row my-5">
             <div class="col-xs-12 col-lg-10">
               <h4 class="new-font-tamano">AUDITORÍA LEGAL</h4>
               <p class="alinear">Obtener información sobre la cual se pueda soportar una opinión de la situación del estado legal de una empresa.</p>
             </div>
-            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa  fa-3x fa-comment-o"></i></div>
+            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa  fa-3x fa-university"></i></div>
           </div>
         </div>
         <div class="my-3 col-lg-4 col-md-6">
@@ -128,14 +128,14 @@
         </div>
         <div class="align-self-center text-left col-lg-4 col-md-12">
           <div class="row my-5">
-            <div class="col-xs-12 col-lg-3 oculto"><i class="d-block fa fa-battery-empty fa-3x"></i></div>
+            <div class="col-xs-12 col-lg-3 oculto"><i class="d-block fa fa-usd fa-3x"></i></div>
             <div class="col-xs-12 col-lg-9">
               <h4 class="new-font-tamano">AUDITORÍA FINANCIERA</h4>
               <p class="alinear">Examina a los estados financieros y a través de ellos las operaciones financieras realizadas por el ente contable.</p>
             </div>
           </div>
           <div class="row my-5">
-            <div class="col-xs-12 col-lg-3 oculto"><i class="d-block mx-auto fa  fa-3x fa-clone"></i></div>
+            <div class="col-xs-12 col-lg-3 oculto"><i class="d-block mx-auto fa  fa-3x fa-gavel"></i></div>
             <div class="col-xs-12 col-lg-9">
               <h4 class="new-font-tamano">ESTRATEGIA FISCAL</h4>
               <p class="alinear">Son las acciones de orden preventivo que se han organizado en la planeación de los negocios y empresas.</p>
