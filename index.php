@@ -45,7 +45,7 @@
     <div class="container">
       <div class="row padding-abajo">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-6 text-md-left align-self-center">
-          <h1 class="text-white display-1 new-tamano">Contabilidad</h1>
+          <h1 class="text-white display-1 new-tamano">Consultores</h1>
           <h4 class="text-white">Resultados para su empresa, garantizados.</h4>
           <div class="row mt-5">
             <div class="col-xs-12 col-sm-12 col-md-6 margin-bottom">
@@ -69,7 +69,7 @@
         <div class="col-xs-12 col-md-7 push-md-5 my-3 align-self-center">
           <h2 class="text-danger my-3">Conocenos</h2>
           <p class="lead">En ISOCIE ofrecemos soluciones integrales de acuerdo a sus necesidades, con servicios innovadores y con capacitaciones constantes al personal. En ISOCIE siempre buscamos la mejor calidad, rentabilidad y confianza en nuestros servicios, para alcanzar siempre la satisfacción total de nuestro cliente. </p>
-          <a href="features.html" class="btn btn-outline-danger btn-lg">Contáctanos</a>
+          <a href="#contacto" class="btn btn-outline-danger btn-lg">Contáctanos</a>
         </div>
         <div class="col-xs-12 col-md-5 pull-md-7 my-3">
           <img src="img/legal.jpg" class="img-fluid d-block mx-auto img-thumbnail"> </div>
@@ -83,7 +83,7 @@
         <div class="col-md-6 align-self-center my-3">
           <h2 class="text-danger my-3">Un poco más</h2>
           <p class="lead">Nos especializamos en la asesoría personalizada de servicios, consultoría y asistencia técnica en diferentes áreas: contable, financiera, tributaria, administrativa y gerencial.</p>
-          <a href="#download" class="btn btn-outline-danger btn-lg">Contáctanos</a>
+          <a href="#contacto" class="btn btn-outline-danger btn-lg">Contáctanos</a>
         </div>
         <div class="col-md-6 my-3">
           <img src="img/conta.jpg" class="img-fluid d-block mx-auto img-thumbnail"> </div>
