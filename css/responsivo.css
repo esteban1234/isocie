@@ -2,6 +2,10 @@ p > strong{
   font-size: 12px;
 }
 
+.bg-primary{
+  background-color: #7f8c8d !important;
+}
+
 @media screen and (max-width: 480px){
 
   body{
