@@ -43,7 +43,7 @@
 
   <div class="cover align-items-center pt-5 bg-primary" id="inicio">
     <div class="container">
-      <div class="row">
+      <div class="row padding-abajo">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-6 text-md-left align-self-center">
           <h1 class="text-white display-1 new-tamano">Contabilidad</h1>
           <h4 class="text-white">Resultados para su empresa, garantizados.</h4>
@@ -223,7 +223,7 @@
         <div class="col-lg-4 col-md-4 col-sm-4 align-self-center">
           <a href="#" target="blank"><i class="fa fa-fw fa-phone text-white fa-3x"></i>PENDIENTE</a>
         </div>
-        <div class="col-lg-4 col-md-12 col-sm-12 align-self-center margin">
+        <div class="col-lg-12 col-md-12 col-sm-12 align-self-center margin">
           <a href="#" target="blank"><i class="fa fa-fw fa-map-marker text-white fa-3x"></i>C. del Zorro #8 entre C. Tigre y Venado, Col. Boulevard del Bosque.  C.P. 30747 en Tapachula, Chiapas</a>
         </div>
       </div>

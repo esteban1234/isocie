@@ -68,6 +68,10 @@ p > strong{
   .oculto{
     display: none;
   }
+
+  .padding-abajo{
+    padding-bottom: 30px;
+  }
 }
 
 @media screen and (max-width: 599px) and (min-width: 481px) {
@@ -134,6 +138,10 @@ p > strong{
 
   .oculto{
     display: none;
+  }
+
+  .padding-abajo{
+    padding-bottom: 30px;
   }
 }
 
@@ -204,6 +212,14 @@ p > strong{
     display: none;
   }
 
+  .padding-abajo{
+    padding-bottom: 30px;
+  }
+
+  .margin{
+    margin-top: 20px;
+  }
+
 }
 
 @media screen and (max-width: 1023px) and (min-width: 800px) {
@@ -272,12 +288,24 @@ p > strong{
   .oculto{
     display: none;
   }
+
+  .padding-abajo{
+    padding-bottom: 30px;
+  }
+
+  .margin{
+    margin-top: 30px;
+  }
 }
 
 @media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
   .new-tamano{
     font-size: 45px;
     font-weight: bold;
+  }
+
+  .margin{
+    margin-top: 30px;
   }
 }
 @media screen and (max-width: 1366px) and (min-width: 1024px) { }
