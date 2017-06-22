@@ -264,12 +264,13 @@ p > strong{
     text-align: justify;
   }
 
-  .py-5, .pt-5, .pb-4{
+  .py-5, .pt-5, .pb-4, .my-3{
     padding: 0px !important;
   }
 
   .my-3{
     text-align: center;
+    margin: 0px !important;
   }
 
   h4{
@@ -295,6 +296,10 @@ p > strong{
 
   .margin{
     margin-top: 30px;
+  }
+
+  b{
+    border: 2px solid red;
   }
 }
 

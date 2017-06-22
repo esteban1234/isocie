@@ -100,53 +100,63 @@
         </div>
       </div>
       <div class="row">
-        <div class="align-self-center text-right col-lg-4 col-md-6">
-          <div class="row my-5">
-            <div class="col-xs-12 col-lg-10">
-              <h4 class="new-font-tamano">AUDITORÍA DE CONTROL INTERNO</h4>
-              <p class="alinear">Control e información de la operaciones, puesto que permite el manejo adecuado de los bienes, funciones e información de una empresa determinada, con el fin de generar una indicación confiable de su situación y sus operaciones en el mercado.</p>
-            </div>
-            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa fa-3x fa-pencil-square-o"></i></div>
+        <div class="col-lg-12 col-md-12">
+          <div class="row">
+            <!-- <div class="row my-5"> -->
+
+              <div class="col-xs-12 col-lg-4">
+                <div class="col-xs-12 col-lg-12"><i class="d-block fa fa-3x fa-pencil-square-o"></i></div><br>
+                <h4 class="new-font-tamano">AUDITORÍA DE CONTROL INTERNO</h4>
+                <p class="alinear">Control e información de la operaciones, puesto que permite el manejo adecuado de los bienes, funciones e información de una empresa determinada, con el fin de generar una indicación confiable de su situación y sus operaciones en el mercado.</p>
+              </div>
+
+            <!-- </div> -->
+            <!-- <div class="row my-5"> -->
+
+              <div class="col-xs-12 col-lg-4">
+                <div class="col-xs-12 col-lg-12"><i class="d-block fa  fa-3x fa-calculator"></i></div><br>
+                <h4 class="new-font-tamano">SERVICIOS CONTABLES</h4>
+                <p class="alinear">Están diseñados para que se constituyan en un verdadero soporte administrativo.</p>
+              </div>
+
+            <!-- </div> -->
+            <!-- <div class="row my-5"> -->
+
+              <div class="col-xs-12 col-lg-4">
+                <div class="col-xs-12 col-lg-12"><i class="d-block fa  fa-3x fa-university"></i></div><br>
+                <h4 class="new-font-tamano">AUDITORÍA LEGAL</h4>
+                <p class="alinear">Obtener información sobre la cual se pueda soportar una opinión de la situación del estado legal de una empresa.</p>
+              </div>
+
+            <!-- </div> -->
           </div>
-          <div class="row my-5">
-            <div class="ccol-xs-12 col-lg-10">
-              <h4 class="new-font-tamano">SERVICIOS CONTABLES</h4>
-              <p class="alinear">Están diseñados para que se constituyan en un verdadero soporte administrativo.</p>
-            </div>
-            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa  fa-3x fa-calculator"></i></div>
-          </div>
-          <div class="row my-5">
-            <div class="col-xs-12 col-lg-10">
-              <h4 class="new-font-tamano">AUDITORÍA LEGAL</h4>
-              <p class="alinear">Obtener información sobre la cual se pueda soportar una opinión de la situación del estado legal de una empresa.</p>
-            </div>
-            <div class="col-xs-12 col-lg-2 oculto"><i class="d-block fa  fa-3x fa-university"></i></div>
-          </div>
-        </div>
-        <div class="my-3 col-lg-4 col-md-6">
-          <img class="img-fluid d-block mx-auto" src="img/serv.png">
-        </div>
-        <div class="align-self-center text-left col-lg-4 col-md-12">
-          <div class="row my-5">
-            <div class="col-xs-12 col-lg-3 oculto"><i class="d-block fa fa-usd fa-3x"></i></div>
-            <div class="col-xs-12 col-lg-9">
-              <h4 class="new-font-tamano">AUDITORÍA FINANCIERA</h4>
-              <p class="alinear">Examina a los estados financieros y a través de ellos las operaciones financieras realizadas por el ente contable.</p>
-            </div>
-          </div>
-          <div class="row my-5">
-            <div class="col-xs-12 col-lg-3 oculto"><i class="d-block mx-auto fa  fa-3x fa-gavel"></i></div>
-            <div class="col-xs-12 col-lg-9">
-              <h4 class="new-font-tamano">ESTRATEGIA FISCAL</h4>
-              <p class="alinear">Son las acciones de orden preventivo que se han organizado en la planeación de los negocios y empresas.</p>
-            </div>
-          </div>
-          <div class="row my-5">
-            <div class="col-xs-12 col-lg-3 oculto"><i class="d-block fa  fa-3x fa-hourglass-half"></i></div>
-            <div class="col-xs-12 col-lg-9">
-              <h4 class="new-font-tamano">LITIGIO FISCAL Y ADMINISTRATIVO</h4>
-              <p class="alinear">Comprende la representación de nuestros clientes en todo tipo de procedimientos contenciosos relacionados con la actividad del Estado.</p>
-            </div>
+        </div><br><br>
+        <!-- <div class="my-3 col-lg-4 col-md-6">
+          <img class="img-fluid d-block mx-auto" src="img/isocie1.png">
+        </div> -->
+        <div class="col-lg-12 col-md-12">
+          <div class="row">
+            <!-- <div class="row my-5"> -->
+              <div class="col-xs-12 col-lg-4">
+                <div class="col-xs-12 col-lg-12"><i class="d-block fa fa-usd fa-3x"></i></div><br>
+                <h4 class="new-font-tamano">AUDITORÍA FINANCIERA</h4>
+                <p class="alinear">Examina a los estados financieros y a través de ellos las operaciones financieras realizadas por el ente contable.</p>
+              </div>
+            <!-- </div> -->
+            <!-- <div class="row my-5"> -->
+              <div class="col-xs-12 col-lg-4">
+                <div class="col-xs-12 col-lg-12"><i class="d-block mx-auto fa  fa-3x fa-gavel"></i></div><br>
+                <h4 class="new-font-tamano">ESTRATEGIA FISCAL</h4>
+                <p class="alinear">Son las acciones de orden preventivo que se han organizado en la planeación de los negocios y empresas.</p>
+              </div>
+            <!-- </div> -->
+            <!-- <div class="row my-5"> -->
+              <div class="col-xs-12 col-lg-4">
+                <div class="col-xs-12 col-lg-12"><i class="d-block fa  fa-3x fa-hourglass-half"></i></div><br>
+                <h4 class="new-font-tamano">LITIGIO FISCAL Y ADMINISTRATIVO</h4>
+                <p class="alinear">Comprende la representación de nuestros clientes en todo tipo de procedimientos contenciosos relacionados con la actividad del Estado.</p>
+              </div>
+            <!-- </div> -->
           </div>
         </div>
       </div>
@@ -215,19 +225,19 @@
   <div class="py-5 bg-info" id="#">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 align-self-center">
+        <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 align-self-center">
           <a href="#" target="blank"><i class="fa fa-fw fa-clock-o fa-3x text-white"></i>Lun-Vie de 9 am a 6 pm</a>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-4 align-self-center">
+        <div class="col-lg-3 col-md-4 col-sm-4 align-self-center">
           <a href="#" target="blank"><i class="fa fa-fw fa-envelope-o fa-3x text-white"></i>info@isocie.com</a>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-4 align-self-center">
+        <div class="col-lg-3 col-md-4 col-sm-4 align-self-center">
           <a href="#" target="blank"><i class="fa fa-fw fa-phone text-white fa-3x"></i>PENDIENTE</a>
         </div>
-        <div class="col-lg-12 col-md-12 col-sm-12 align-self-center margin">
+        <div class="col-lg-3 col-md-12 col-sm-12 align-self-center margin">
           <a href="#" target="blank"><i class="fa fa-fw fa-map-marker text-white fa-3x"></i>C. del Zorro #8 entre C. Tigre y Venado, Col. Boulevard del Bosque.  C.P. 30747 en Tapachula, Chiapas</a>
         </div>
-      </div>
+      </div><br><br>
       <div class="row">
         <div class="col-xs-12 col-md-12 my-3">
           <p>© Copyright 2017 ISOCIE - TODOS LOS DERECHOS RESERVADOS. </p>
