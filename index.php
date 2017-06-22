@@ -226,16 +226,16 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 align-self-center">
-          <a href="#" target="blank"><i class="fa fa-fw fa-clock-o fa-3x text-white"></i>Lun-Vie de 9 am a 6 pm</a>
+          <a href="#" target="blank" class="color-texto"><i class="fa fa-fw fa-clock-o fa-3x text-white"></i>Lun-Vie de 9 am a 6 pm</a>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-4 align-self-center">
-          <a href="#" target="blank"><i class="fa fa-fw fa-envelope-o fa-3x text-white"></i>info@isocie.com</a>
+          <a href="#" target="blank" class="color-texto"><i class="fa fa-fw fa-envelope-o fa-3x text-white"></i>info@isocie.com</a>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-4 align-self-center">
-          <a href="#" target="blank"><i class="fa fa-fw fa-phone text-white fa-3x"></i>PENDIENTE</a>
+          <a href="#" target="blank" class="color-texto"><i class="fa fa-fw fa-phone text-white fa-3x"></i>PENDIENTE</a>
         </div>
         <div class="col-lg-3 col-md-12 col-sm-12 align-self-center margin">
-          <a href="#" target="blank"><i class="fa fa-fw fa-map-marker text-white fa-3x"></i>C. del Zorro #8 entre C. Tigre y Venado, Col. Boulevard del Bosque.  C.P. 30747 en Tapachula, Chiapas</a>
+          <a href="#" target="blank" class="color-texto"><i class="fa fa-fw fa-map-marker text-white fa-3x"></i>C. del Zorro #8 entre C. Tigre y Venado, Col. Boulevard del Bosque.  C.P. 30747 en Tapachula, Chiapas</a>
         </div>
       </div><br><br>
       <div class="row">

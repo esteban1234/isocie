@@ -3,7 +3,12 @@ p > strong{
 }
 
 .bg-primary{
-  background-color: #7f8c8d !important;
+  /*background-color: #7f8c8d !important;*/
+  background-image: url("../img/fondo.jpg") !important;
+}
+
+.color-texto{
+  color: #fff !important;
 }
 
 @media screen and (max-width: 480px){
