@@ -7,6 +7,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
   <link rel="stylesheet" href="https://pingendo.github.io/templates/app/theme.css" type="text/css">
   <link rel="stylesheet" href="css/responsivo.css">
+  <script src="js/general.js"></script>
+
   <title>ISOCIE</title>
   <meta name="keywords" content="contabilidad, impuestos, facturación digital, facturación electrónica, soluciones, planes, impuestos, regímenes fiscales">
   <meta name="description" content="ISOCIE Tus impuestos y contabilidad online, sin complicaciones.">
@@ -42,19 +44,19 @@
   <div class="cover align-items-center pt-5 bg-primary" id="inicio">
     <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-md-6 text-md-left align-self-center">
+        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-6 text-md-left align-self-center">
           <h1 class="text-white display-1 new-tamano">Contabilidad</h1>
           <h4 class="text-white">Resultados para su empresa, garantizados.</h4>
           <div class="row mt-5">
-            <div class="col-xs-12 col-md-5 margin-bottom">
+            <div class="col-xs-12 col-sm-12 col-md-6 margin-bottom">
             <a href="#contacto"><button type="button" class="btn btn-danger btn-lg">CONTACTANOS</button></a>
             </div>
-            <div class="col-xs-12 col-md-5">
+            <div class="col-xs-12 col-sm-12 col-md-6">
             <a href="#servicios"><button type="button" class="btn btn-danger btn-lg">SERVICIOS</button></a>
             </div>
           </div>
         </div>
-        <div class="col-xs-12 col-md-6">
+        <div class="col-xs-12 col-sm-12 col-md-3 col-lg-6">
           <img class="img-fluid d-block mx-auto" src="img/isocie.png">
         </div>
       </div>
@@ -156,7 +158,7 @@
     <div class="row">
         <div class="col-md-6 col-md-offset-3" style="margin: 0 auto;">
           <!-- <div class="well well-sm" style="border: 2px red solid;"> -->
-            <form class="form-horizontal" action="" method="post" >
+            <form class="form-horizontal" onSubmit="return false">
             <fieldset>
               <h1 class="text-center">Formulario de contacto</h1 >
 
@@ -164,7 +166,7 @@
               <div class="form-group">
                 <label class="col-md-5 control-label" for="name">Nombre completo</label>
                 <div class="col-md-12">
-                  <input id="name" name="name" type="text" placeholder="Escribe tu Nombre Completo" class="form-control">
+                  <input id="txtNOMBRE" name="txtNOMBRE" type="text" placeholder="Escribe tu Nombre Completo" class="form-control">
                 </div>
               </div>
 
@@ -172,14 +174,14 @@
               <div class="form-group">
                 <label class="col-md-3 control-label" for="email">Correo</label>
                 <div class="col-md-12">
-                  <input id="email" name="email" type="text" placeholder="Escribe tu Correo" class="form-control">
+                  <input id="txtCORREO" name="txtCORREO" type="text" placeholder="Escribe tu Correo" class="form-control">
                 </div>
               </div>
 
               <div class="form-group">
                 <label class="col-md-3 control-label" for="email">Teléfono</label>
                 <div class="col-md-12">
-                  <input id="email" name="email" type="text" placeholder="Escribe tu Teléfono" class="form-control">
+                  <input id="txtTELEFONO" name="txtTELEFONO" type="text" placeholder="Escribe tu Teléfono" class="form-control">
                 </div>
               </div>
 
@@ -187,14 +189,16 @@
               <div class="form-group">
                 <label class="col-md-3 control-label" for="message">Mensaje</label>
                 <div class="col-md-12">
-                  <textarea class="form-control" id="message" name="message" placeholder="Escribe tu Mensaje" rows="5"></textarea>
+                  <textarea class="form-control" id="txtCOMENTARIO" name="txtCOMENTARIO" placeholder="Escribe tu Mensaje" rows="5"></textarea>
                 </div>
               </div>
 
               <!-- Form actions -->
+              <div id="_AJAX_PRE_"></div>
+
               <div class="form-group">
                 <div class="col-md-12 text-right">
-                  <button type="submit" class="btn btn-danger btn-lg">Enviar</button>
+                  <button type="submit" class="btn btn-danger btn-lg" onclick="sendCORREO()">Enviar</button>
                 </div>
               </div>
             </fieldset>
@@ -236,6 +240,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
   <script src="https://pingendo.com/assets/bootstrap/bootstrap-4.0.0-alpha.6.min.js"></script>
   <script src="https://pingendo.com/assets/scripts/smooth-scroll.js"></script>
+  <script src="js/sendCORREO.js"></script>
 </body>
 
 </html>
