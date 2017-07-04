@@ -17,7 +17,7 @@
 
 <body class="text-center">
 
-  <nav class="navbar navbar-inverse navbar-expand-md navbar-dark bg-primary">
+  <nav class="navbar navbar-inverse navbar-expand-md navbar-dark bg-primary1">
 
     <div class="container">
       <a class="navbar-brand" href="#inicio">ISOCIE</a>
@@ -42,7 +42,7 @@
 
   </nav>
 
-  <div class="cover align-items-center pt-5 bg-primary" id="inicio">
+  <div class="cover align-items-center pt-5 bg-primary1" id="inicio">
     <div class="container">
       <div class="row padding-abajo">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-6 text-md-left align-self-center">
@@ -73,7 +73,7 @@
           <a href="#contacto" class="btn btn-outline-danger btn-lg">Contáctanos</a>
         </div>
         <div class="col-xs-12 col-md-5 pull-md-7 my-3">
-          <img src="img/legal.jpg" class="img-fluid d-block mx-auto img-thumbnail"> </div>
+          <img src="img/consultoria2.jpg" class="img-fluid d-block mx-auto img-thumbnail"> </div>
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@
           <a href="#contacto" class="btn btn-outline-danger btn-lg">Contáctanos</a>
         </div>
         <div class="col-md-6 my-3">
-          <img src="img/conta.jpg" class="img-fluid d-block mx-auto img-thumbnail"> </div>
+          <img src="img/consultoria.png" class="img-fluid d-block mx-auto img-thumbnail"> </div>
       </div>
     </div>
   </div>
@@ -164,18 +164,18 @@
   </div>
 
 
-  <div class="py-5 section bg-primary" id="contacto">
+  <div class="py-5 section bg-primary1" id="contacto">
     <div class="container">
     <div class="row">
         <div class="col-md-6 col-md-offset-3" style="margin: 0 auto;">
           <!-- <div class="well well-sm" style="border: 2px red solid;"> -->
             <form class="form-horizontal" onSubmit="return false">
             <fieldset>
-              <h1 class="text-center">Formulario de contacto</h1 >
+              <h1 class="text-center color-texto">Formulario de contacto</h1 >
 
               <!-- Name input-->
               <div class="form-group">
-                <label class="col-md-5 control-label" for="name">Nombre completo</label>
+                <label class="col-md-5 control-label color-texto" for="name">Nombre completo</label>
                 <div class="col-md-12">
                   <input id="txtNOMBRE" name="txtNOMBRE" type="text" placeholder="Escribe tu Nombre Completo" class="form-control">
                 </div>
@@ -183,14 +183,14 @@
 
               <!-- Email input-->
               <div class="form-group">
-                <label class="col-md-3 control-label" for="email">Correo</label>
+                <label class="col-md-3 control-label color-texto" for="email">Correo</label>
                 <div class="col-md-12">
                   <input id="txtCORREO" name="txtCORREO" type="text" placeholder="Escribe tu Correo" class="form-control">
                 </div>
               </div>
 
               <div class="form-group">
-                <label class="col-md-3 control-label" for="email">Teléfono</label>
+                <label class="col-md-3 control-label color-texto" for="email">Teléfono</label>
                 <div class="col-md-12">
                   <input id="txtTELEFONO" name="txtTELEFONO" type="text" placeholder="Escribe tu Teléfono" class="form-control">
                 </div>
@@ -198,7 +198,7 @@
 
               <!-- Message body -->
               <div class="form-group">
-                <label class="col-md-3 control-label" for="message">Mensaje</label>
+                <label class="col-md-3 control-label color-texto" for="message">Mensaje</label>
                 <div class="col-md-12">
                   <textarea class="form-control" id="txtCOMENTARIO" name="txtCOMENTARIO" placeholder="Escribe tu Mensaje" rows="5"></textarea>
                 </div>
