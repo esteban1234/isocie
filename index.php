@@ -192,7 +192,7 @@
               <div class="form-group">
                 <label class="col-md-3 control-label color-texto" for="email">Teléfono</label>
                 <div class="col-md-12">
-                  <input id="txtTELEFONO" name="txtTELEFONO" type="text" placeholder="Escribe tu Teléfono" class="form-control">
+                  <input id="txtTELEFONO" name="txtTELEFONO" type="tel" placeholder="Escribe tu Teléfono" class="form-control">
                 </div>
               </div>
 

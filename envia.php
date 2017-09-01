@@ -1,6 +1,6 @@
 <?php
 //Librerías para el envío de mail
-require('../phpmailer/phpmailer/class.phpmailer.php');
+require('phpmailer/phpmailer/class.phpmailer.php');
 
 //PHPMailer Object
 $mail = new PHPMailer();
@@ -23,6 +23,7 @@ $mail->FromName = $nombre;
 
 //To address and name
 $mail->addAddress("info@isocie.com");
+
 
 
 $mail->isHTML(true);
