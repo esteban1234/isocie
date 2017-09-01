@@ -232,7 +232,7 @@
           <a href="#" target="blank" class="color-texto"><i class="fa fa-fw fa-envelope-o fa-3x text-white"></i>info@isocie.com</a>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-4 align-self-center">
-          <a href="#" target="blank" class="color-texto"><i class="fa fa-fw fa-phone text-white fa-3x"></i>PENDIENTE</a>
+          <a href="#" target="blank" class="color-texto"><i class="fa fa-fw fa-phone text-white fa-3x"></i>(962)-625-9653</a>
         </div>
         <div class="col-lg-3 col-md-12 col-sm-12 align-self-center margin">
           <a href="#" target="blank" class="color-texto"><i class="fa fa-fw fa-map-marker text-white fa-3x"></i>C. del Zorro #8 entre C. Tigre y Venado, Col. Boulevard del Bosque.  C.P. 30747 en Tapachula, Chiapas</a>
